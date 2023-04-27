@@ -1,0 +1,13 @@
+What happens when a group of broke Computer Science students try to make a password manager?
+Obviously a perfect commercial success!
+
+There is a TryHackMe subscription code hidden on this box. The first person to find and activate it will get a one month subscription for free! If you're already a subscriber, why not give the code to a friend?
+
+UPDATE: The code is now claimed.
+The machine was slightly modified on 2020/09/25. This was only to improve the performance of the machine. It does not affect the process.
+
+Hack the machine and get the flag in user.txt
+> thm{65c1aaf000506e56996822c6281e6bf7}
+
+Escalate your privileges and get the flag in root.txt
+> thm{7f336f8c359dbac18d54fdd64ea753bb}
